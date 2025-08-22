@@ -1,0 +1,31 @@
+/*Seletor de elementos*/
+p{
+    color: rgb(32, 42, 180);
+}
+h1{
+    color: rgb(47, 89, 102);
+}
+
+/*seletor de id*/
+#mesmo{
+    color: aliceblue;
+}
+/*Seletores de classe */
+.myclass{
+    background-color: rgb(0, 0, 0); /*mudar a cor do background*/
+    border-style: ridge;              /*estilo da borda*/
+    border: 0.6em ridge rgb(11, 11, 61);
+}
+/* Junção de seletores*/
+
+li.myclass{
+
+    text-align: end;
+}
+.newclass{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.teste-cores{
+    padding: 10%;
+    background-color: rgba(15, 45, 71,0.4);
+}

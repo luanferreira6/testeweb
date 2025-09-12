@@ -1,0 +1,26 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}     
+
+
+label{
+    display: block;
+}  
+label{
+    margin-top: 1rem;
+}          
+.formulario{
+    margin: 2rem;
+    padding: 2rem;
+}         
+
+input{
+    border-radius: 0.4rem;
+    border-color: rgb(52, 41, 212);
+    padding: 0.3rem;
+}
+
+#nasc:hover{
+    background-color: rgb(210, 210, 250);
+}
+                                                                                                                                             
